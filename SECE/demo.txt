@@ -1,0 +1,7 @@
+mkdir ~/SECE
+cd ~/SECE
+touch demo.txt
+chmod +x demo.txt
+nano sample.c
+gcc sample.c -o sample
+./sample
